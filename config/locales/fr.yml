@@ -2,6 +2,7 @@ fr:
   errors:
     messages:
       content_type_invalid: "a un type de contenu non valide"
+      filename_invalid: "a un nom de fichier invalide"
       file_size_out_of_range: "la taille %{file_size} n'est pas comprise dans la plage permise"
       limit_out_of_range: "le nombre total est hors limites"
       image_metadata_missing: "n'est pas une image valide"
